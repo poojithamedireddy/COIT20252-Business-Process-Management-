@@ -35,3 +35,44 @@ the context of business process analysis and
 identified areas where organisations can recognise
 the need for improvements and recommend
 appropriate solutions for process enhancement.
+
+## 1. Business Process Model and Notation (BPMN) 
+
+Business Process Model and Notation (BPMN) 2.0 is one of the
+most widely adopted standards and techniques used in
+Business Process Management (BPM).
+
+It provides a standard set of symbols that are used to
+create business process diagrams, making them easy to
+understand for managers, business analysts, and system
+designers.
+
+BPMN diagrams illustrate business processes through a
+series of activities, events, gateways, and decision
+points, showing the overall flow of a process.
+
+Organisations use BPMN to document and describe their
+business processes in a standard format. This makes it
+easier to analyse existing processes, identify areas for
+improvement, and design more efficient future processes.
+
+
+## 2. SIPOC Model
+
+The SIPOC model stands for **Suppliers, Inputs, Process,
+Outputs, and Customers**. It is a high-level business
+process modelling technique that provides an overall view
+of a business process.
+
+The SIPOC model is commonly used at the beginning of Lean
+and Six Sigma projects to define the scope of a process
+before detailed analysis begins.
+
+It helps organisations understand how the major elements
+of a process interact by identifying suppliers, required
+inputs, the process itself, expected outputs, and the
+customers who receive those outputs.
+
+Using a SIPOC model enables organisations to gain a
+shared understanding of a process and identify areas
+where improvements can be made.
