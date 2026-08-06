@@ -107,3 +107,73 @@ technologies, during mergers or acquisitions,
 organisational restructuring, and when new legal or
 regulatory requirements require changes to existing
 business processes.
+
+## Process Analysis in Different Business Situations
+
+Process analysis should be conducted when an organisation
+wants to improve the efficiency and effectiveness of its
+business processes. It should be an ongoing activity,
+supported by continuous monitoring so that improvement
+opportunities can be identified before problems become
+serious.
+
+It should also be performed whenever significant events
+occur, such as customer complaints, operational failures,
+or unexpected changes in business activities. Analysing
+the process at these times helps organisations identify
+the root causes of problems and take corrective action.
+
+During strategic planning, process analysis ensures that
+existing business processes support the organisation's
+goals and long-term objectives. It also helps determine
+whether changes are needed to improve future performance.
+
+When organisations experience performance issues such as
+high costs, delays, low productivity, or reduced customer
+satisfaction, process analysis should be carried out to
+identify inefficiencies and recommend suitable solutions.
+
+Process analysis is also essential when implementing new
+technologies, during mergers or acquisitions,
+organisational restructuring, and when new legal or
+regulatory requirements require changes to existing
+business processes.
+
+## 4.2 The Difference Between Static and Dynamic Models
+
+To fully understand and improve business processes,
+organisations need to model, analyse, and evaluate how
+their processes operate. Business process models help
+visualise workflows and identify opportunities for
+improvement. The two main types of business process
+models are **static models** and **dynamic models**.
+Although both are used to represent business processes,
+they differ in how they present information.
+
+| **Static Models** | **Dynamic Models** |
+|-------------------|--------------------|
+| Show a business process at a specific point in time. | Show how a business process changes and behaves over time. |
+| Provide a fixed or snapshot view of the process. | Display the flow and interaction between activities. |
+| Mainly used to document and describe processes. | Used to analyse, monitor, and improve processes. |
+| Do not show process movement or changes. | Show real process behaviour and performance. |
+| Easier to create and understand. | More detailed and suitable for analysing complex processes. |
+| Usually remain unchanged once documented. | Can be updated as the process changes over time. |
+
+A static model is similar to a photograph because it
+captures a business process at a single point in time.
+It helps organisations understand how a process is
+structured but does not show how it behaves during
+operation.
+
+A dynamic model is like a video because it illustrates
+how a process flows from one activity to another and
+how it changes over time. It provides a better
+understanding of process behaviour and supports
+decision-making, process improvement, and performance
+analysis.
+
+In practice, organisations often use both static and
+dynamic models together. Static models provide a clear
+overview of the current process, while dynamic models
+help evaluate performance and identify opportunities
+for continuous improvement.
