@@ -36,6 +36,10 @@ identified areas where organisations can recognise
 the need for improvements and recommend
 appropriate solutions for process enhancement.
 
+**Title:** Introduction to Business Process Management
+
+**YouTube Link:** https://youtu.be/9kVGL5DvDIc?si=QWLVoIrCyrGStXKA
+
 ## 1. Business Process Model and Notation (BPMN) 
 
 Business Process Model and Notation (BPMN) 2.0 is one of the
