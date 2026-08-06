@@ -42,7 +42,7 @@ appropriate solutions for process enhancement.
 
 ## 1. Business Process Model and Notation (BPMN) 
 
-Business Process Model and Notation (BPMN) 2.0 is one of the
+Business Process Model and Notation (BPMN) is one of the
 most widely adopted standards and techniques used in
 Business Process Management (BPM).
 
@@ -181,3 +181,7 @@ dynamic models together. Static models provide a clear
 overview of the current process, while dynamic models
 help evaluate performance and identify opportunities
 for continuous improvement.
+
+## Reference -
+Object Management Group (OMG). (2026). *Business Process Model and Notation (BPMN).* Available at: https://www.omg.org/bpmn/ (Accessed: 6 August 2026).
+American Society for Quality (ASQ). (2026). *SIPOC Diagram.* [Online]. Available at: https://asq.org/quality-resources/sipoc (Accessed: 6 August 2026).
