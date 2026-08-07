@@ -186,8 +186,10 @@ help evaluate performance and identify opportunities
 for continuous improvement.
 
 ## Reference -
+American Society for Quality (ASQ) 2026, SIPOC Diagram ,viewed 6 August 2026,
+https://asq.org/quality-resources/sipoc 
+
 Object Management Group (OMG) 2026, Business Process Model and Notation, viewed 6 August 2026,
 https://www.omg.org/bpmn/ 
 
-American Society for Quality (ASQ) 2026, SIPOC Diagram ,viewed 6 August 2026,
-https://asq.org/quality-resources/sipoc 
+
