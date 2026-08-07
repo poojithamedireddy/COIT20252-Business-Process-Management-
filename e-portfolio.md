@@ -115,37 +115,6 @@ organisational restructuring, and when new legal or
 regulatory requirements require changes to existing
 business processes.
 
-## Process Analysis in Different Business Situations
-
-Process analysis should be conducted when an organisation
-wants to improve the efficiency and effectiveness of its
-business processes. It should be an ongoing activity,
-supported by continuous monitoring so that improvement
-opportunities can be identified before problems become
-serious.
-
-It should also be performed whenever significant events
-occur, such as customer complaints, operational failures,
-or unexpected changes in business activities. Analysing
-the process at these times helps organisations identify
-the root causes of problems and take corrective action.
-
-During strategic planning, process analysis ensures that
-existing business processes support the organisation's
-goals and long-term objectives. It also helps determine
-whether changes are needed to improve future performance.
-
-When organisations experience performance issues such as
-high costs, delays, low productivity, or reduced customer
-satisfaction, process analysis should be carried out to
-identify inefficiencies and recommend suitable solutions.
-
-Process analysis is also essential when implementing new
-technologies, during mergers or acquisitions,
-organisational restructuring, and when new legal or
-regulatory requirements require changes to existing
-business processes.
-
 ## 4.2 The Difference Between Static and Dynamic Models
 
 To fully understand and improve business processes,
