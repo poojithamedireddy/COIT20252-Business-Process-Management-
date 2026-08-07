@@ -72,7 +72,7 @@ process modelling technique that provides an overall view
 of a business process.
 
 The SIPOC model is commonly used at the beginning of Lean
-and Six Sigma projects to define the scope of a process
+and Sigma projects to define the scope of a process
 before detailed analysis begins.
 
 It helps organisations understand how the major elements
