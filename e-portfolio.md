@@ -183,7 +183,8 @@ help evaluate performance and identify opportunities
 for continuous improvement.
 
 ## Reference -
-Object Management Group (OMG). (2026). *Business Process Model and Notation (BPMN).* Available at: https://www.omg.org/bpmn/ (Accessed: 6 August 2026).
+Object Management Group (OMG) 2026, Business Process Model and Notation, viewed 6 August 2026,
+https://www.omg.org/bpmn/ 
 
-
-American Society for Quality (ASQ). (2026). *SIPOC Diagram.* [Online]. Available at: https://asq.org/quality-resources/sipoc (Accessed: 6 August 2026).
+American Society for Quality (ASQ) 2026, SIPOC Diagram ,viewed 6 August 2026,
+https://asq.org/quality-resources/sipoc 
