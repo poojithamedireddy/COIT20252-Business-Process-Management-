@@ -154,6 +154,9 @@ overview of the current process, while dynamic models
 help evaluate performance and identify opportunities
 for continuous improvement.
 
+## Reflection and Conclusion 
+Overall, this portfolio has made me appreciate the Business Process Management framework much more especially the process analysis components, the tools used such as BPMN, SIPOC, and Business process models, I’ve been able to discover that those components will always make an organisation excel and help it to remove some inefficiencies present in the business and this make smarter decisions through a sound analysis of the overall Business process, such things can add weight to your analytics skills in which will be essential in a ICT industry job and in all levels of further studies.
+
 ## Reference -
 
 American Society for Quality (ASQ) 2026, SIPOC Diagram ,viewed 6 August 2026,
