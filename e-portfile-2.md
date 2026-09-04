@@ -13,26 +13,9 @@ Business Process Modelling is the act of representing a business process in a 
 The reason I picked this artefact because it gave me a solid foundation for what Business Process Modelling was and what it was that organisations did with it. When I used to study this, I always thought that process modelling was just answering questions: What do I do? From this artefact I have learnt that a process view can also be adopted to look at problems, responsibilities and opportunities for process improvement. I found this artefact useful as it provided me with a footing onto which to build when tackling more complex models like BPMN. It is a significant testimony of what I have learnt because it illustrates how my perspectives of process modelling has expanded and that process modelling is more than just drawing process steps. 
 
 ## Business Process Model and Notation (BPMN)
+Business Process Model and Notation (BPMN) is the standard for graphical representation of business processes via a flowcharting technique. Events, activities, decisions, and flows between process steps are represented by different icons in BPMN. For example, events are depicted as circles, activities as rectangles, and gateways or decisions as diamonds. The artefact I am submitting demonstrates the relevant BPMN core symbols and how narrative is incorporated to form a process based view. It gave me a clearer view on how BPMN is a common visual language for business process description.
 
-Business Process Model and Notation, commonly known as BPMN, is a
-standard method used to represent business processes visually. BPMN
-uses different symbols to represent events, activities, decisions
-and the flow between process steps. For example, circles can represent
-events, rectangles can represent activities and diamonds can represent
-gateways or decisions. The artefact I selected explains the main BPMN
-symbols and demonstrates how they can be connected to create a process
-model. It helped me understand how BPMN provides a common visual
-language for describing business processes.
-
-I selected this artefact because BPMN is an important part of Business
-Process Modelling. I found the visual explanation particularly useful
-because it made the different symbols easier to understand. I learned
-that each BPMN symbol has a specific meaning and should be used
-correctly when creating a process model. The gateway was especially
-interesting to me because it shows how different paths can be followed
-depending on a decision. This artefact is meaningful evidence of my
-learning because it helped me move from understanding basic process
-modelling to understanding a formal process modelling notation.
+I chose this artefact because BPMN is a crucial aspect in Business Process Modelling. I really benefited from the visual explanation as it helped me get a better grasp on the various symbols. I discovered that a BPMN symbol has a meaning, and I have to use the symbols properly when my diagram is created. The gateway was especially intriguing to me as it demonstrated how different paths can be taken, based on a decision. This artefact serves as a very good example of my learning as it took me from learning very basic process modelling to a formal process modelling notation. 
 
 ## Applying BPMN - My Own Process Model
 
