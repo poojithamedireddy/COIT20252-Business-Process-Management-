@@ -19,56 +19,23 @@ I chose this artefact because BPMN is a crucial aspect in Business Process Mod
 
 ## Applying BPMN - My Own Process Model
 
-For this artefact, I created my own BPMN model of an online shopping
-order process. The process begins when the customer places an order.
-The system then checks whether the selected product is available. A
-gateway is used to represent the decision about product availability.
-If the product is available, the process continues to payment, order
-preparation, shipping and delivery. If the product is unavailable,
-the customer is notified and the process ends. I used activities,
-events, sequence flows and a gateway to represent the different parts
-of the process.
-![BPMN Diagram](draw.i.o.png)
+For this artefact, I have designed my own BPMN model of how online shopping orders are processed. When a customer places an order, the process begins. The system then verifies the availability of the selected product. The gateway represents the product availability decision. In the event that the product is available, the process continues to payment, order preparation, shipping and delivery. The customer is informed and the process ends if the product is not available. I represented the different parts of the process using activities, events, sequence flows and a gateway.
 
-I chose my own BPMN model as an artefact because it allowed me to
-apply the concepts I learned from the previous artefacts. Creating
-the diagram helped me understand where different BPMN elements should
-be used and how the activities should be connected. I particularly
-learned how gateways are used when a process contains more than one
-possible path. Creating the model was useful because I had to think
-about the process logically instead of only reading about BPMN.
-This artefact is meaningful evidence of my learning because it
-demonstrates that I can apply Business Process Modelling concepts
-to a realistic business situation.
+
+I have selected my own BPMN model as an artefact as it allowed me to
+put into practice the knowledge I gained from the previous artefacts. The diagram helped me to understand where different BPMN elements are to be used and how the activities should be connected. I specifically learned how gateways are implemented when a process has more than one possible path. The model was developed in a logical manner which helped me to think about the process more logically rather than just reading about BPMN.
+This artefact is meaningful evidence of my learning as it shows that I can use Business Process Modelling concepts in a realistic business situation. 
 
 # Reflection
 
-Through this e-portfolio, I developed a better understanding of
-Business Process Modelling and how it is used to represent business
-activities in a clear and structured way. I learned about BPMN
-elements such as events, activities, gateways and sequence flows.
-Creating my own online-order process model was particularly helpful
-because I was able to apply these concepts practically. It also
-helped me understand how modelling can identify decisions,
-responsibilities and different paths within a business process.
+Through the e-portfolio I gained knowledge of Business Process Modelling and how business processes are visualized in an organized manner. Business Process Modelling and the way that it is used to portray business processes clearly and logically. I learned about the BPMN more in detail like events, activities, gateways and sequence flows. Particularly useful was the creation of my own online-order process model: it gave me a chance to use these ideas in a practical manner. It also illustrated for me how modeling can reveal decisions, ownership, and alternate paths within a business process. 
 
 # Conclusion
 
-Overall, Business Process Modelling is an important part of Business
-Process Management because it helps organisations understand,
-communicate and improve their processes. The four artefacts helped
-me develop my knowledge from understanding basic process modelling
-concepts to applying BPMN in a practical example. This e-portfolio
-has shown me that a well-designed process model can simplify complex
-business activities and provide a useful foundation for analysing
-and improving organisational processes.
+In general, BPMN is considered to be a crucial element of BPM [8] as it enables the enterprise to visualize their processes. The 4 artefact’s allowed me to increase my knowledge from understanding basic process modelling statements to using BPMN in a practical scenario. This e-portfolio has made me realize that a good process model can make complicated business processes easy to understand and serve as a sound basis for investigating and enhancing an organization’s processes.
 
 # AI Use Acknowledgement
-Generative AI was used during the planning and initial research
-stage to help organise the structure of this e-portfolio and
-generate ideas for suitable artefacts. The selected sources were
-checked independently, and the final reflections were reviewed
-and rewritten in my own words.
+Generative AI, namely ChatGPT, was utilised during the planning and initial research to aid in the organisation of this e-portfolio and the articulation of artefacts appropriate for inclusion. The chosen resources were verified individually and the final reflections were scribed my own words. 
 
 # Reference 
 Hörner, L.F., Möller, M. & Reichert, M. 2026,
