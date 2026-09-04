@@ -20,6 +20,7 @@ I chose this artefact because BPMN is a crucial aspect in Business Process Mod
 ## Applying BPMN - My Own Process Model
 
 For this artefact, I have designed my own BPMN model of how online shopping orders are processed. When a customer places an order, the process begins. The system then verifies the availability of the selected product. The gateway represents the product availability decision. In the event that the product is available, the process continues to payment, order preparation, shipping and delivery. The customer is informed and the process ends if the product is not available. I represented the different parts of the process using activities, events, sequence flows and a gateway.
+![BPMN Diagram](
 
 
 I have selected my own BPMN model as an artefact as it allowed me to
