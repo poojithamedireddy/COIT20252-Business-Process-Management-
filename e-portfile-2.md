@@ -8,26 +8,8 @@ communication and improvement.
 
 ## Introduction to Business Process Modelling
 
-Business Process Modelling is the practice of representing a business
-process in a visual and structured form. A process model can show the
-activities performed, the order in which they occur, the decisions
-made and the people involved in completing the process. The artefact
-I selected is a scholarly article about Business Process Modelling.
-The article explains how process models can help organisations
-understand their operations and communicate processes more clearly.
-It also shows that modelling can support the analysis and improvement
-of existing business processes.
-
-I chose this artefact because it gave me a clear understanding of
-what Business Process Modelling means and why organisations use it.
-Before studying this topic, I mainly thought process modelling was
-just about creating diagrams. From this artefact, I learned that a
-process model can also be used to understand problems, responsibilities
-and opportunities for improvement. I found this artefact useful
-because it gave me the foundation needed to understand more detailed
-modelling concepts such as BPMN. It is meaningful evidence of my
-learning because it shows how my understanding of process modelling
-has developed beyond simply drawing process steps.
+Business Process Modelling is the act of representing a business process in a graphical and standard way. like what they do, when they do it, the decisions they make along the way and the roles they perform. The artefact I have chosen is an academic report on Business Process Modelling. The article describes how process models enable an organisation to gain a better understanding of its own processes and to express the processes more accurately to others. It states modelling can also be utilised to analyse and improve existing business processes.
+The reason I picked this artefact because it gave me a solid foundation for what Business Process Modelling was and what it was that organisations did with it. When I used to study this, I always thought that process modelling was just answering questions: What do I do? From this artefact I have learnt that a process view can also be adopted to look at problems, responsibilities and opportunities for process improvement. I found this artefact useful as it provided me with a footing onto which to build when tackling more complex models like BPMN. It is a significant testimony of what I have learnt because it illustrates how my perspectives of process modelling has expanded and that process modelling is more than just drawing process steps. 
 
 ## Business Process Model and Notation (BPMN)
 
