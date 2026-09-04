@@ -32,7 +32,7 @@ Through the e-portfolio I gained knowledge of Business Process Modelling and how
 
 # Conclusion
 
-In general, BPMN is considered to be a crucial element of BPM [8] as it enables the enterprise to visualize their processes. The 4 artefact’s allowed me to increase my knowledge from understanding basic process modelling statements to using BPMN in a practical scenario. This e-portfolio has made me realize that a good process model can make complicated business processes easy to understand and serve as a sound basis for investigating and enhancing an organization’s processes.
+In general, BPMN is considered to be a crucial element of BPM as it enables the enterprise to visualize their processes. The artefact’s allowed me to increase my knowledge from understanding basic process modelling statements to using BPMN in a practical scenario. This e-portfolio has made me realize that a good process model can make complicated business processes easy to understand and serve as a sound basis for investigating and enhancing an organization’s processes.
 
 # AI Use Acknowledgement
 Generative AI, namely ChatGPT, was utilised during the planning and initial research to aid in the organisation of this e-portfolio and the articulation of artefacts appropriate for inclusion. The chosen resources were verified individually and the final reflections were scribed my own words. 
