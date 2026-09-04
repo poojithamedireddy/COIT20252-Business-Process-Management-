@@ -74,6 +74,28 @@ This artefact is meaningful evidence of my learning because it
 demonstrates that I can apply Business Process Modelling concepts
 to a realistic business situation.
 
+# Reflection
+
+Through this e-portfolio, I developed a better understanding of
+Business Process Modelling and how it is used to represent business
+activities in a clear and structured way. I learned about BPMN
+elements such as events, activities, gateways and sequence flows.
+Creating my own online-order process model was particularly helpful
+because I was able to apply these concepts practically. It also
+helped me understand how modelling can identify decisions,
+responsibilities and different paths within a business process.
+
+# Conclusion
+
+Overall, Business Process Modelling is an important part of Business
+Process Management because it helps organisations understand,
+communicate and improve their processes. The four artefacts helped
+me develop my knowledge from understanding basic process modelling
+concepts to applying BPMN in a practical example. This e-portfolio
+has shown me that a well-designed process model can simplify complex
+business activities and provide a useful foundation for analysing
+and improving organisational processes.
+
 # AI Use Acknowledgement
 Generative AI was used during the planning and initial research
 stage to help organise the structure of this e-portfolio and
