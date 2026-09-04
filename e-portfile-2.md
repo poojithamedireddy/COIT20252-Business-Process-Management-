@@ -104,4 +104,11 @@ checked independently, and the final reflections were reviewed
 and rewritten in my own words.
 
 # Reference 
+Hörner, L.F., Möller, M. & Reichert, M. 2026,
+*Automatically Generating BPMN 2.0 Process Models from Natural Language
+Process Descriptions: Challenges, Framework, Quality Assessment*,
+Business & Information Systems Engineering, viewed 4 September 2026,
+https://link.springer.com/article/10.1007/s12599-025-00983-x
 
+Object Management Group (OMG) 2026, *Business Process Model and Notation (BPMN)*,
+viewed 4 September 2026,https://www.omg.org/bpmn/
