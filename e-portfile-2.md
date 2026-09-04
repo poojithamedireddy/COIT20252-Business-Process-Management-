@@ -62,7 +62,7 @@ preparation, shipping and delivery. If the product is unavailable,
 the customer is notified and the process ends. I used activities,
 events, sequence flows and a gateway to represent the different parts
 of the process.
-![BPMN Diagram](
+![BPMN Diagram](draw.i.o.png)
 
 I chose my own BPMN model as an artefact because it allowed me to
 apply the concepts I learned from the previous artefacts. Creating
