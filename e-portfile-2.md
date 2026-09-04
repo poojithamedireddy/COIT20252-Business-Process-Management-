@@ -30,3 +30,53 @@ learning because it shows how my understanding of process modelling
 has developed beyond simply drawing process steps.
 
 ## Business Process Model and Notation (BPMN)
+
+Business Process Model and Notation, commonly known as BPMN, is a
+standard method used to represent business processes visually. BPMN
+uses different symbols to represent events, activities, decisions
+and the flow between process steps. For example, circles can represent
+events, rectangles can represent activities and diamonds can represent
+gateways or decisions. The artefact I selected explains the main BPMN
+symbols and demonstrates how they can be connected to create a process
+model. It helped me understand how BPMN provides a common visual
+language for describing business processes.
+
+I selected this artefact because BPMN is an important part of Business
+Process Modelling. I found the visual explanation particularly useful
+because it made the different symbols easier to understand. I learned
+that each BPMN symbol has a specific meaning and should be used
+correctly when creating a process model. The gateway was especially
+interesting to me because it shows how different paths can be followed
+depending on a decision. This artefact is meaningful evidence of my
+learning because it helped me move from understanding basic process
+modelling to understanding a formal process modelling notation.
+
+## Applying BPMN - My Own Process Model
+
+For this artefact, I created my own BPMN model of an online shopping
+order process. The process begins when the customer places an order.
+The system then checks whether the selected product is available. A
+gateway is used to represent the decision about product availability.
+If the product is available, the process continues to payment, order
+preparation, shipping and delivery. If the product is unavailable,
+the customer is notified and the process ends. I used activities,
+events, sequence flows and a gateway to represent the different parts
+of the process.
+
+I chose my own BPMN model as an artefact because it allowed me to
+apply the concepts I learned from the previous artefacts. Creating
+the diagram helped me understand where different BPMN elements should
+be used and how the activities should be connected. I particularly
+learned how gateways are used when a process contains more than one
+possible path. Creating the model was useful because I had to think
+about the process logically instead of only reading about BPMN.
+This artefact is meaningful evidence of my learning because it
+demonstrates that I can apply Business Process Modelling concepts
+to a realistic business situation.
+
+# AI Use Acknowledgement
+Generative AI was used during the planning and initial research
+stage to help organise the structure of this e-portfolio and
+generate ideas for suitable artefacts. The selected sources were
+checked independently, and the final reflections were reviewed
+and rewritten in my own words.
