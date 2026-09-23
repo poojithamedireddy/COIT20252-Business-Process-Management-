@@ -21,7 +21,21 @@ While RPA can enhance business processing, automation can also bring about secur
 
 I picked this artefact as it shows that organisations need to factor in security when implementing RPA and not just focus on efficiency. I also found out that bots may need to have access credentials and permissions to perform their tasks, which leads to risk if those credentials and/or permissions are not well managed. Security controls like access management, monitoring, secure credential management and suitable governance can thus be integral to process automation.This artefact helped me understand the intersection of RPA, BPM and cyber security and why secure process design is critical when organisations bring in automation.
 
-Reference -
+### Reflection -
+
+This e-portfolio helped me to better understand Robotic Process Automation and its relation to Business Process Management. RPA can automate repetitive and rules-based tasks, helping companies eliminate manual work and make processes more efficient. However, I also found that automation can be a cybersecurity risk, especially when bots can access sensitive information and business systems. The most important thing I learned is that organizations need to factor security into the design of automated processes, not after they have already been implemented. These artefacts helped me to see the connections between RPA, BPM and cybersecurity and how human involvement, access control and monitoring are key to building automated processes securely.
+
+### conclusion - 
+
+Robotic Process Automation can help organisations to improve business processes by automating repetitive tasks and reducing manual effort. But RPA implementation is not just a matter of bringing in software bots. It is important for organisations to identify the right processes for automation and to be aware of cyber security risks such as unauthorised access, credential misuse and data breaches. This e-portfolio has helped me to learn that process efficiency and process security have to go hand in hand. RPA can bring major benefits, but proper security controls, governance and ongoing monitoring are essential to build automated business processes that are both trustworthy and secure.
+
+### Reference -
+
+Australian Signals Directorate (ASD) 2025, AI Data Security, viewed 23 September 2026,https://www.cyber.gov.au/business-government/secure-design/artificial-intelligence/ai-data-security?utm_source
+
+Kandula, SR, Kassetty, N & Mogulluri, HK 2025, Towards a Secure Robotic Process Automation Ecosystem: Threats and Countermeasures, viewed 23 September 2026,
+https://ijgis.pubpub.org/pub/xoxhtq8z/release/1?utm_source
 
 SAP 2026, What is Robotic Process Automation (RPA)?, viewed 23 September 2026,https://www.sap.com/australia/resources/what-is-rpa
+
 Khantong, S & Sriboonlue, P 2026, Robotic Process Automation in Business Process Management: A Systematic Literature Review and an Integrated Framework, viewed 23 September 2026,https://www.mdpi.com/2227-7080/14/4/225?utm_source
