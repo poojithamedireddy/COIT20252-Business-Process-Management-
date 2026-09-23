@@ -1,1 +1,20 @@
 ### Robotic Process Automation and Process Cybersecurity
+
+## Artefact 1 – Robotic Process Automation (RPA)
+Robotic Process Automation (RPA) deploys software robots or 'bots' to perform mundane and rule-based tasks that are typically done by a human. RPA can be employed, for example, to enter data, process transactions, move data between systems, produce reports and take care of routine administrative work. A recent survey on RPA in Business Process Management states that RPA can simulate human interaction with the user interface of a computer and can automate repetitive tasks, however, it does not imply any substantial modifications to the existing IT infrastructure. 
+
+### Why I selected this artefact:
+This artefact is relevant as it helped me to learn about the core concept of RPA and how it is linked to Business Process Management. RPA is most suitable for processes that are repetitive, high-volume, rule-based, and use structured digital information. This artefact also made me realise that automation is not just about replacing human work. It can reduce manual effort and enable staff to devote more time to tasks that require judgement, communication and problem-solving. 
+### Artefact 2 – RPA and Business Process Management
+RPA can complement Business Process Management (BPM) by automating the tasks within a single process in the business. BPM is concerned with modelling, executing, monitoring and continuously improving processes within organisations, while RPA offers technology that can automate specific activities in these processes. Recent studies highlight six key areas related to RPA and BPM: process identification, implementation and lifecycle management, benefits, challenges, technology integration, and governance. 
+
+### Why I picked this artefact:
+I chose this artefact as it relating to RPA and BPM in my view illustrates that RPA and BPM should be considered in tandem as opposed to being brought up as separate ideas. An organisation is required to have a clear understanding of its current process and to determine which tasks can be automated before it can begin process automation. I found out that I tend to agree with my fellow participants, that RPA tends to be more suitable for straighter and stable processes than processes involving a lot of human opinion. From this artefact, I gained a better understanding of how technology can be used to bring BPM to the next level by enhancing the process by which organisational processes are executed and managed on an ongoing basis. 
+
+### Artefact 3 – Process Cybersecurity
+Cybersecurity in process helps to protect business processes, information systems and the data used throughout those processes from cyber security incidents. A 2025 paper shows how process mining can be used with cybersecurity risk analysis to determine how a cyberattack could impact interconnected business processes. Researchers leveraged event logs to build business dependency relationships and to find potentially high-risk paths through an organisation's processes. 
+
+I chose this artifact because it made me view cybersecurity as a business process and not just an IT issue. A single attack on a system may, thus, interrupt multiple activities relying on the information provided by that system. I discovered organisations have to understand the relationships between processes, systems and data when they look at the risks to their cybersecurity. The artefact also demonstrated to me how process mining and related techniques can enable organisations to discover critical dependencies and to gauge the potential business impact of cybersecurity events.
+
+### Artefact 4 – Cybersecurity Risks in RPA
+While RPA can enhance business processing, automation can also bring about security challenges. Software bots may access sensitive business data and systems of record. Studies on RPA security point to threats like the misuse of credentials, unauthorized access, data leaking and exposure of system interfaces. This means that organisations require the right security controls to design and run automated processes.
