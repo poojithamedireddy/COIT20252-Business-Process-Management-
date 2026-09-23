@@ -1,7 +1,7 @@
 ### Robotic Process Automation and Process Cybersecurity
 
 ## Artefact 1 – Robotic Process Automation (RPA)
-Robotic Process Automation (RPA) deploys software robots or 'bots' to perform mundane and rule-based tasks that are typically done by a human. RPA can be employed, for example, to enter data, process transactions, move data between systems, produce reports and take care of routine administrative work. A recent survey on RPA in Business Process Management states that RPA can simulate human interaction with the user interface of a computer and can automate repetitive tasks, however, it does not imply any substantial modifications to the existing IT infrastructure. 
+Robotic Process Automation (RPA) deploys software robots or 'bots' to perform  rule-based tasks that are typically done by a human. RPA can be employed, for example, to enter data, process transactions, move data between systems, produce reports and take care of routine administrative work. A recent survey on RPA in Business Process Management states that RPA can simulate human interaction with the user interface of a computer and can automate repetitive tasks, however, it does not imply any substantial modifications to the existing IT infrastructure. 
 
 ### Why I selected this artefact:
 I chose this artefact because it helped me understand the idea of RPA and how it connects to Business Process Management. RPA works well for tasks that're repetitive happen in large volumes follow clear rules and use structured digital data. This artefact also showed me that automation is not about replacing people. It helps reduce work so employees can focus on tasks that need thinking, communication and problem-solving.
