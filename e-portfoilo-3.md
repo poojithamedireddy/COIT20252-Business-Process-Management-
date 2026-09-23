@@ -20,3 +20,8 @@ I chose this artifact because it made me view cybersecurity as a business proces
 While RPA can enhance business processing, automation can also bring about security challenges. Software bots may access sensitive business data and systems of record. Studies on RPA security point to threats like the misuse of credentials, unauthorized access, data leaking and exposure of system interfaces. This means that organisations require the right security controls to design and run automated processes.
 
 I picked this artefact as it shows that organisations need to factor in security when implementing RPA and not just focus on efficiency. I also found out that bots may need to have access credentials and permissions to perform their tasks, which leads to risk if those credentials and/or permissions are not well managed. Security controls like access management, monitoring, secure credential management and suitable governance can thus be integral to process automation.This artefact helped me understand the intersection of RPA, BPM and cyber security and why secure process design is critical when organisations bring in automation.
+
+Reference -
+
+SAP 2026, What is Robotic Process Automation (RPA)?, viewed 23 September 2026,https://www.sap.com/australia/resources/what-is-rpa
+Khantong, S & Sriboonlue, P 2026, Robotic Process Automation in Business Process Management: A Systematic Literature Review and an Integrated Framework, viewed 23 September 2026,https://www.mdpi.com/2227-7080/14/4/225?utm_source
